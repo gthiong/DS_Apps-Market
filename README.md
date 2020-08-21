@@ -1,2 +1,2 @@
-# DS_Apps-Market
-This project analyses profitability of Apps in App Store and Google Playstore
+# DS_Apps_Market_Analysis
+The objective of this project is to find apps that are profitable in the markets and use the findings to help in decision making on what kind of apps to be developed. Since the company develops only free apps, the source of revenue is solely app users who interact with the ads placed on company apps. So developing apps that attract traffic will increase the source of revenue.
